@@ -26,7 +26,7 @@ You are always free to import as much or as little of the atom as you need, but 
 | 2. [The Basics](Basics.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
 | 3. [Dealing with Errors & Debugging](Debugging.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
 | 4. [Truth with Conditions](Conditions.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
-| 5. [Lists](Lists.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
-| 6. [Dictionaries](Dictionaries.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
-| 7. [Loops and Iteration](Iteration.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
-| 8. [Introduction to Functions](Functions.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades), [James Millington](https://github.com/jamesdamillington) |
+| 5. [Lists](Lists.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades) |
+| 6. [Dictionaries](Dictionaries.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades) |
+| 7. [Loops and Iteration](Iteration.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades)) |
+| 8. [Introduction to Functions](Functions.ipynb) | [Michele Ferretti](https://github.com/miccferr), [Jon Reades](https://github.com/jreades) |
